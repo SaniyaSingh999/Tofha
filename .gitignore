@@ -1,0 +1,11 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+
+# Terraform lock file (optional, can be committed but safe to ignore)
+terraform/.terraform.lock.hcl
+
+# OS files
+.DS_Store
+Thumbs.db
